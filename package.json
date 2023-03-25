@@ -1,0 +1,30 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This is Namaste React Series",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salonishaw11/namaste_react.git"
+  },
+  "keywords": [],
+  "author": "Saloni Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salonishaw11/namaste_react/issues"
+  },
+  "homepage": "https://github.com/salonishaw11/namaste_react#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
